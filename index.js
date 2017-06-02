@@ -1,5 +1,4 @@
 require('dotenv').config();
-const loans = require('./lib/loans');
+const bot = require('./lib/bot');
 
-loans.balance().then(a => console.log(a));
-
+bot.start();
