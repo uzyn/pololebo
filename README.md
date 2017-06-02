@@ -1,2 +1,2 @@
 # pololebo
-Poloniex Lending Bot
+Poloniex Lending Bot for AWS Lambda

@@ -1,0 +1,15 @@
+{
+  "name": "pololebo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:uzyn/pololebo.git",
+  "author": "U-Zyn Chua <chua@uzyn.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
